@@ -41,8 +41,11 @@ span{
 	color: white;
 }
 
-.footer p {
+footer{
 	background-color: dimgray;
-	color:white;
+}
+
+.footer p {
+	color: white;
 	font-size: 11px;
 }
